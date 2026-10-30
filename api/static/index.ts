@@ -1,4 +1,4 @@
-import { createStaticProxyResponse } from '../../src/lib/static-proxy'
+import { createStaticProxyResponse } from '../../src/lib/static-proxy.js'
 
 export const config = {
   runtime: 'edge',

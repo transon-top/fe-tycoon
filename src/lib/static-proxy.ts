@@ -1,4 +1,4 @@
-import { getTargetWhitelist } from './env'
+import { getTargetWhitelist } from './env.js'
 
 const DEFAULT_TARGET_WHITELIST = [
   't.me',
